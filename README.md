@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=백엔드%20개발자&fontSize=70&desc=이얍)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=백엔드%20개발자&fontSize=70&desc=)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=annie-yeee&show_icons=true&theme=dracula)](https://github.com/annie-yeee)
 
