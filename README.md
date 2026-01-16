@@ -1,15 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=백엔드%20개발자&fontSize=70&desc=)
+## 안녕하세요!<br>균형을 지켜주는 개발자, 김우영입니다.
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=annie-yeee&show_icons=true&theme=dracula)](https://github.com/annie-yeee)
+Java/Kotlin 과 Spring Boot 기반의 백엔드 개발을 공부하고 있습니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annie-yeee)](https://github.com/annie-yeee/github-readme-stats)
+각 프로젝트에 맞는 설계의 이유와, 운영 관점에서 문제가 없는지 고민하며 개발중입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annie-yeee&layout=compact)](https://github.com/annie-yeee/githubreadme-stats)
-
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=flat&logo=Kotlin&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-3178C6?style=flat-square&logo=Kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-123456?style=flat-square&logo=C&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annie-yeee)
