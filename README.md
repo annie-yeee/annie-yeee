@@ -2,7 +2,7 @@
 
 Java/Kotlin 과 Spring Boot 기반의 백엔드 개발을 공부하고 있습니다.
 
-각 프로젝트에 맞는 설계의 이유와, 운영 관점에서 문제가 없는지 고민하며 개발중입니다.
+각 프로젝트에 맞는 설계의 이유와, 운영 관점에서 문제가 없는지 고민하며 개발하고 있습니다.
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
