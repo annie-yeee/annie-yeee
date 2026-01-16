@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annie-yeee&layout=compact)](https://github.com/annie-yeee/githubreadme-stats)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-Java-007396?style=flat&logo=Kotlin&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
